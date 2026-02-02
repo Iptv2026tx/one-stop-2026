@@ -1,41 +1,41 @@
 #EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East FHD" group-title="New Group",TBS East FHD
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East 720p" group-title="New Group",TBS East 720p
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East HD" group-title="New Group",TBS East HD
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East 480p" group-title="New Group",TBS East 480p
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East SD" group-title="New Group",TBS East SD
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East 360p" group-title="New Group",TBS East 360p
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West FHD" group-title="New Group",TBS West FHD
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West 720p" group-title="New Group",TBS West 720p
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West HD" group-title="New Group",TBS West HD
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West 480p" group-title="New Group",TBS West 480p
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West SD" group-title="New Group",TBS West SD
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West 360p" group-title="New Group",TBS West 360p
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies FHD" group-title="New Group",Turner Classic Movies FHD
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies 720p" group-title="New Group",Turner Classic Movies 720p
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies SD" group-title="New Group",Turner Classic Movies SD
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies 432p" group-title="New Group",Turner Classic Movies 432p
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_3_1928000.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East FHD" group-title="New Group",TNT East FHD
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East 720p" group-title="New Group",TNT East 720p
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East HD" group-title="New Group",TNT East HD
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East 480p" group-title="New Group",TNT East 480p
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East SD" group-title="New Group",TNT East SD
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East 360p" group-title="New Group",TNT East 360p
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West FHD" group-title="New Group",TNT West FHD
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West 720p" group-title="New Group",TNT West 720p
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West HD" group-title="New Group",TNT West HD
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West 480p" group-title="New Group",TNT West 480p
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West SD" group-title="New Group",TNT West SD
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West 360p" group-title="New Group",TNT West 360p
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East FHD" group-title="New Group",truTV East FHD
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East 720p" group-title="New Group",truTV East 720p
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East HD" group-title="New Group",truTV East HD
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East 480p" group-title="New Group",truTV East 480p
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East SD" group-title="New Group",truTV East SD
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East 360p" group-title="New Group",truTV East 360p
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West FHD" group-title="New Group",truTV West FHD
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West 720p" group-title="New Group",truTV West 720p
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West HD" group-title="New Group",truTV West HD
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West 480p" group-title="New Group",truTV West 480p
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West SD" group-title="New Group",truTV West SD
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West 360p" group-title="New Group",truTV West 360p
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_3_1464000.m3u8
