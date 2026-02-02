@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E East (MOJ)" group-title="Entertainment",A&E East (MOJ)
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ANE/index.m3u8
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ESPN ACC Network (MOJ)" group-title="Sports",ESPN ACC Network (MOJ)
