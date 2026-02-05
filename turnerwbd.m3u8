@@ -7,6 +7,10 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_3_19
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim West 360p (D)" group-title="Entertainment",Adult Swim West 360p (D)
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_3_1928000.m3u8
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN 720p (D)" group-title="News",CNN 720p (D)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN 480p (D)" group-title="News",CNN 480p (D)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East 720p (D)" group-title="Entertainment",TBS East 720p (D)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East 480p (D)" group-title="Entertainment",TBS East 480p (D)
