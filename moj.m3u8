@@ -713,3 +713,10 @@ https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits" group-title="Movies",HBO Hits
 https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Extra.HDTV.DirecTV.(Midwest).us" tvg-name="FanDuel Sports Extra" group-title="Sports",FanDuel Sports Extra
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BALLY_SPORTS_MIDWEST/mpegts
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-name="Travel Channel" group-title="Entertainment",Travel Channel 
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Travel_Channel/mpegts
+#EXTINF:-1 tvg-id="UPtv.us2" tvg-name="UpTV" group-title="Entertainment",UpTV
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Up_Tv/mpegts
+#EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="IL | Chicago | CW WGN" group-title="Local - CW/MY",IL | Chicago | CW WGN
