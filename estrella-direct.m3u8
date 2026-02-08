@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="Estrella.TV.us2" tvg-name="EstrellaTV 1" group-title="New Group",EstrellaTV 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-id="Estrella.TV.us2" tvg-name="Estrella TV 2" group-title="New Group",Estrella TV 2
