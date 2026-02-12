@@ -41,10 +41,3 @@ body:
     attributes:
       label: Any additional information we need to know?
 
-  - type: checkboxes
-    attributes:
-      label: Contributing Guide
-      description: 'Please read this guide before posting your request'
-      options:
-        - label: I have read [Contributing Guide](https://github.com/iptv-org/iptv/blob/master/CONTRIBUTING.md)
-          required: true
