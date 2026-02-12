@@ -64,4 +64,4 @@ body:
     id: notes
     attributes:
       label: Notes
-      description: 'Anything else we should know about this broadcast?
+      description: 'Anything else we should know about this broadcast?' 
