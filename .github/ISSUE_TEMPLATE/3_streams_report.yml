@@ -30,7 +30,7 @@ body:
         - Shows looped video
         - No sound
         - Displays a message asking to renew subscription
-        - Other
+        - Other (Place info in Notes Section)
     validations:
       required: true
 
@@ -38,12 +38,4 @@ body:
     id: notes
     attributes:
       label: Notes (optional)
-      placeholder: 'Anything else we should know?'
-
-  - type: checkboxes
-    attributes:
-      label: Contributing Guide
-      description: 'Please read this guide before posting your request'
-      options:
-        - label: I have read [Contributing Guide](https://github.com/iptv-org/iptv/blob/master/CONTRIBUTING.md)
-          required: true
+      placeholder: 'Anything else we should know?' 
