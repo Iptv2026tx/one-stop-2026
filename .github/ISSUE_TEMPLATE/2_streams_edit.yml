@@ -21,9 +21,9 @@ body:
   - type: input
     id: stream_id
     attributes:
-      label: Stream ID
-      description: "ID of the stream consisting of `<channel_id>` or `<channel_id>@<feed_id>`. Full list of supported channels with corresponding ID could be found on [iptv-org.github.io](https://iptv-org.github.io/). If you can't find the channel you want in the list, please let us know through this [form](https://github.com/iptv-org/database/issues/new?assignees=&labels=channels%3Aadd&projects=&template=channels_add.yml&title=Add%3A+) before posting your request."
-      placeholder: 'BBCAmerica.us@East'
+      label: Station ID
+      description: "Station ID"
+      placeholder: 'BBC America East'
 
   - type: dropdown
     id: quality
@@ -70,11 +70,3 @@ body:
     attributes:
       label: Notes
       placeholder: 'Anything else we should know?'
-
-  - type: checkboxes
-    attributes:
-      label: Contributing Guide
-      description: 'Please read this guide before posting your request'
-      options:
-        - label: I have read [Contributing Guide](https://github.com/iptv-org/iptv/blob/master/CONTRIBUTING.md)
-          required: true
