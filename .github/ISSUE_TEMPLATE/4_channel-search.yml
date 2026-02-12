@@ -1,0 +1,28 @@
+name: 🔍 Channel search
+description: Ask for help in finding a link to the channel stream.
+title: 'Find: '
+labels: ['channel search']
+
+body:
+  - type: input
+    id: stream_id
+    attributes:
+      label: Stream ID (required)
+      description: Unique ID of the channel and feed from [iptv-org.github.io](https://iptv-org.github.io/). If you cannot find the channel or feed you are looking for in the list, please let us know via one of the [forms](https://github.com/iptv-org/database/issues/new/choose) before posting your request.
+      placeholder: 'BBCAmerica.us@East'
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: 'Any additional information that may help find a link to the stream faster?'
+  
+  - type: checkboxes
+    attributes:
+      label: Contributing Guide
+      description: 'Please read this guide before posting your request'
+      options:
+        - label: I have read [Contributing Guide](https://github.com/iptv-org/iptv/blob/master/CONTRIBUTING.md)
+          required: true
