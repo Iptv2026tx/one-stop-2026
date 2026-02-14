@@ -4,8 +4,7 @@ title: 'Edit: '
 labels: ['streams:edit']
 
 body:
-
-    - type: dropdown
+- type: dropdown
     id: PlaylistName
     attributes:
       label: Playlist Name
