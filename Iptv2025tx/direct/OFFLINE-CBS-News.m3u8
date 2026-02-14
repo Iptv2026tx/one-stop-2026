@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CBS News 24/7-1 (D)" group-title="News",CBS News 24/7-1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News 24/7-2 (D)" group-title="News",CBS News 24/7-2 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Baltimore 1 (D)" group-title="News",CBS News Baltimore 1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Baltimore 2 (D)" group-title="News",CBS News Baltimore 2 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Bay Area 1 (D)" group-title="News",CBS News Bay Area 1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Bay Area 2 (D) " group-title="News",CBS News Bay Area 2 (D) 
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Boston 1 (D) " group-title="News",CBS News Boston 1 (D) 
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Boston 2 (D)" group-title="News",CBS News Boston 2 (D) 
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Chicago 1 (D)" group-title="News",CBS News Chicago 1 (D) 
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Chicago 2 (D)" group-title="News",CBS News Chicago 2 (D) 
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Colorado 1 (D) " group-title="News",CBS News Colorado 1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Colorado 2 (D)" group-title="News",CBS News Colorado 2 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Detroit 1 (D)" group-title="News",CBS News Detroit 1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Detroit 2 (D)" group-title="News",CBS News Detroit 2 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Los Angeles 1 (D)" group-title="News",CBS News Los Angeles 1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Los Angeles 2 (D)" group-title="News",CBS News Los Angeles 2 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Miami 1 (D)" group-title="News",CBS News Miami 1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Miami 2 (D)" group-title="News",CBS News Miami 2 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Minnesota 1 (D)" group-title="News",CBS News Minnesota 1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Minnesota 2 (D)" group-title="News",CBS News Minnesota 2 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News New York 1 (D)" group-title="News",CBS News New York 1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News New York 2 (D)" group-title="News",CBS News New York 2 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Philadelphia 1 (D)" group-title="News",CBS News Philadelphia 1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Philadelphia 2 (D)" group-title="News",CBS News Philadelphia 2 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Pittsburgh 1 (D)" group-title="News",CBS News Pittsburgh 1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Pittsburgh 2 (D)" group-title="News",CBS News Pittsburgh 2 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Sacramento 1 (D)" group-title="News",CBS News Sacramento 1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Sacramento 2 (D)" group-title="News",CBS News Sacramento 2 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Texas 1 (D)" group-title="News",CBS News Texas 1 (D)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CBS News Texas 2 (D)" group-title="News",CBS News Texas 2 (D)
+http://example.com/stream
