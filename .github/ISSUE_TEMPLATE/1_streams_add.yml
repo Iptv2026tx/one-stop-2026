@@ -4,6 +4,17 @@ title: 'Add: '
 labels: ['streams:add']
 
 body:
+  - type: dropdown
+    id: PlaylistName
+    attributes:
+      label: Playlist Name
+      description: Which Playlist has the issue? 
+      options:
+        - Estrella
+        - MOJ
+        - Sinclair
+        - TurnerWBD
+        
   - type: input
     id: stream_id
     attributes:
