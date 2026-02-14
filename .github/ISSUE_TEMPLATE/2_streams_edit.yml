@@ -4,6 +4,19 @@ title: 'Edit: '
 labels: ['streams:edit']
 
 body:
+    - type: dropdown
+    id: PlaylistName
+    attributes:
+      label: Playlist Name
+      description: Which Playlist has the issue? 
+      options:
+        - Apsattv/Distro
+        - Estrella
+        - Free-IPTV
+        - MOJ
+        - Sinclair
+        - TurnerWBD
+        
   - type: input
     id: stream_url
     attributes:
