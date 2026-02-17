@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HSN.Home.Shopping.Network.HD.us2" tvg-name="HSN1 East (D)" group-title="Shopping",HSN1 East (D)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 tvg-id="HSN.Home.Shopping.Network.HD.us2" tvg-name="HSN1 West (D)" group-title="Shopping",HSN1 West (D)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+#EXTINF:-1 tvg-id="HSN2.us2" tvg-name="HSN2 (D)" group-title="Shopping",HSN2 (D)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-id="Jewelry.Television.us2" tvg-name="Jewelry TV 1 (D)" group-title="Shopping",Jewelry TV 1 (D)
+https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
+#EXTINF:-1 tvg-name="Jewelry TV 2 (D)" group-title="Shopping",Jewelry TV 2 (D)
+https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 HD (D)" group-title="Shopping",QVC1 HD (D)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/master.m3u8
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 SD (D)" group-title="Shopping",QVC1 SD (D)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medlow.m3u8
+#EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC2 HD (D)" group-title="Shopping",QVC2 HD (D)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/master.m3u8
+#EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC2 SD (SD)" group-title="Shopping",QVC2 SD (D)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/medlow.m3u8
+#EXTINF:-1 tvg-id="QVC3.us2" tvg-name="QVC3 HD (D)" group-title="Shopping",QVC3 HD (D)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8
+#EXTINF:-1 tvg-id="QVC3.us2" tvg-name="QVC3 SD (D)" group-title="Shopping",QVC3 SD (D)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/medlow.m3u8
+#EXTINF:-1 tvg-name="QVC4: In The Kitchen HD (D)" group-title="Shopping",QVC4: In The Kitchen HD (D)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/master.m3u8
+#EXTINF:-1 tvg-name="QVC4: In The Kitchen SD (D)" group-title="Shopping",QVC4: In The Kitchen SD (D)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/medlow.m3u8
