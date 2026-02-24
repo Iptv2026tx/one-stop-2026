@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1950's" group-title="Music - Radio",iHeart 1950's
+https://stream.revma.ihrhls.com/zc6882/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1960's" group-title="Music - Radio",iHeart 1960's
+https://stream.revma.ihrhls.com/zc6873/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1970's" group-title="Music - Radio",iHeart 1970's
+https://stream.revma.ihrhls.com/zc6843/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1970's Rock Ride" group-title="Music - Radio",iHeart 1970's Rock Ride
+https://stream.revma.ihrhls.com/zc6803/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1980's" group-title="Music - Radio",iHeart 1980's
+https://stream.revma.ihrhls.com/zc5060/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1980's Rock Ride" group-title="Music - Radio",iHeart 1980's Rock Ride
+https://stream.revma.ihrhls.com/zc10054/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1990's" group-title="Music - Radio",iHeart 1990's
+https://stream.revma.ihrhls.com/zc6834/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2000's" group-title="Music - Radio",iHeart 2000's
+https://stream.revma.ihrhls.com/zc6850/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 2010's" group-title="Music - Radio",iHeart 2010's
+https://stream.revma.ihrhls.com/zc8478/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart After MidNite" group-title="Music - Radio",iHeart After MidNite
+https://stream.revma.ihrhls.com/zc6563/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT 2000's" group-title="Music - Radio",iHeart ALT 2000's
+https://stream.revma.ihrhls.com/zc7727/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Radio" group-title="Music - Radio",iHeart ALT Radio
+https://stream.revma.ihrhls.com/zc4447/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Rewind" group-title="Music - Radio",iHeart ALT Rewind
+https://stream.revma.ihrhls.com/zc6950/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT Top 20" group-title="Music - Radio",iHeart ALT Top 20
+https://stream.revma.ihrhls.com/zc9759/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart ALT X" group-title="Music - Radio",iHeart ALT X
+https://stream.revma.ihrhls.com/zc10098/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart American Top 40" group-title="Music - Radio",iHeart American Top 40
+https://stream.revma.ihrhls.com/zc4802/hls.m3u8
