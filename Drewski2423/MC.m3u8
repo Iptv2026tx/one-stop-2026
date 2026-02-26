@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Radio 001 - Classic Rock" tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_117,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music",MC Radio 001 - Classic Rock
 https://edge.music-choice-chaina.top.comcast.net/streamwebaca3/AudioChannels/1/O0U9MTc3MjEzNjAwMTtBPTE7Sz0wO1A9MDExMTA7Uz05NDk1OWZmNzM5NTI4MzEzNzExYTc1M2QwNmY5Zjk0YWJhYjJmN2I5/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=acchaina&AssetID=AC_1&AssetType=AudioChannel&RegionID=1&IsPrimary=True&IsDR=False
 #EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Radio 010 - Urban" tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_117,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music",MC Radio 010 - Urban
