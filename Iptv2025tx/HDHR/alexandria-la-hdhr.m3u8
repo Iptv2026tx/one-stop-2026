@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="KALB-DT.us_locals1" tvg-name="LA | Alexandria | NBC KALB" group-title="Local - NBC",LA | Alexandria | NBC KALB
 http://12.186.20.98:5004/auto/v5.1
 #EXTINF:-1 tvg-id="KALB-DT2.us_locals1" tvg-name="LA | Alexandria | CBS KALB" group-title="Local - CBS",LA | Alexandria | CBS KALB
