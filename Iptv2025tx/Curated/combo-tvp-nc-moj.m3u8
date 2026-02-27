@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E HD [Not 24/7] (TVP)" group-title="Entertainment - ENG",A&E HD [Not 24/7] (TVP)
 https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network [Not 24/7] (TVP)" group-title="Sports",ACC Network [Not 24/7] (TVP)
