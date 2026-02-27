@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="WPBT-DT.us_locals1" tvg-name="FL | WPB | PBS WPBT" group-title="Kids & Family",FL | WPB | PBS WPBT
 http://173.229.4.243:5004/auto/v2.1
 #EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - FL" group-title="Kids & Family",Create - FL
@@ -171,7 +171,7 @@ http://173.229.4.243:5004/auto/v67.9
 http://173.229.4.243:5004/auto/v69.1
 #EXTINF:-1 tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess - FL" group-title="Entertainment - ENG",Confess - FL
 http://173.229.4.243:5004/auto/v69.2
-#EXTINF:-1 tvg-id="get.us2" tvg-name="GET - FL2" group-title="Entertainment - ENG",GET - FL2
+#EXTINF:-1 tvg-id="get.us2" tvg-name="Great - FL2" group-title="Entertainment - ENG",Great - FL2
 http://173.229.4.243:5004/auto/v69.3
 #EXTINF:-1 tvg-name="BT2 - FL" group-title="Entertainment - ENG",BT2 - FL
 http://173.229.4.243:5004/auto/v69.4
