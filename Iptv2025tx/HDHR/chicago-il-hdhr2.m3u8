@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="IL | Chicago | CBS WBBM2" group-title="Local - CBS",IL | Chicago | CBS WBBM2
+http://68.251.105.81:5004/auto/v2.1
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - CHI2" group-title="Entertainment - ENG",Start TV - CHI2
+http://68.251.105.81:5004/auto/v2.2
+#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - CHI2" group-title="Entertainment - ENG",DABL - CHI2
+http://68.251.105.81:5004/auto/v2.3
+#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - CHI2" group-title="Entertainment - ENG",365BLK - CHI2
+http://68.251.105.81:5004/auto/v2.4
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - CHI2" group-title="Entertainment - ENG",Comet - CHI2
+http://68.251.105.81:5004/auto/v2.5
+#EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="IL | Chicago | NBC WMAQ2" group-title="Local - NBC",IL | Chicago | NBC WMAQ2
+http://68.251.105.81:5004/auto/v5.1
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi - CHI2" group-title="Entertainment - ENG",Cozi - CHI2
+http://68.251.105.81:5004/auto/v5.2
+#EXTINF:-1 tvg-id="NBC.True.CRMZ.us2" tvg-name="NBC True Crimes - CHI2" group-title="Entertainment - ENG",NBC True Crimes - CHI2
+http://68.251.105.81:5004/auto/v5.3
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - CHI2" group-title="Entertainment - ENG",Oxygen True Crime - CHI2
+http://68.251.105.81:5004/auto/v5.4
+#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="IL | Chicago | ABC WLS2" group-title="Local - ABC",IL | Chicago | ABC WLS2
+http://68.251.105.81:5004/auto/v7.1
+#EXTINF:-1 tvg-name="Localish - CHI2" group-title="Entertainment - ENG",Localish - CHI2
+http://68.251.105.81:5004/auto/v7.2
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - CHI2" group-title="Entertainment - ENG",Charge - CHI2
+http://68.251.105.81:5004/auto/v7.3
+#EXTINF:-1 tvg-id="Daystar.Television.Network.HD.[CHARTER].us2" tvg-name="Daystar English - CHI2" group-title="Religion",Daystar English - CHI2
+http://68.251.105.81:5004/auto/v8.1
+#EXTINF:-1 tvg-id="Daystar.Español.us2" tvg-name="Daystar Spanish - CHI2" group-title="Religion",Daystar Spanish - CHI2
+http://68.251.105.81:5004/auto/v8.2
+#EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="IL | Chicago | CW WGN2" group-title="Local - CW/IND/MY",IL | Chicago | CW WGN2
+http://68.251.105.81:5004/auto/v9.1
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - CHI2" group-title="Entertainment - ENG",Antenna TV - CHI2
+http://68.251.105.81:5004/auto/v9.2
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - CHI2" group-title="Entertainment - ENG",Grit TV - CHI2
+http://68.251.105.81:5004/auto/v9.3
+#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind - CHI2" group-title="Entertainment - ENG",Rewind - CHI2
+http://68.251.105.81:5004/auto/v9.4
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - CHI2" group-title="Entertainment - ENG",The Nest - CHI2
+http://68.251.105.81:5004/auto/v9.5
+#EXTINF:-1 tvg-id="WTTW-DT.us_locals1" tvg-name="IL | Chicago | PBS WTTW2" group-title="Kids & Family",IL | Chicago | PBS WTTW2
+http://68.251.105.81:5004/auto/v11.1
+#EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - CHI2" group-title="Kids & Family",Create - CHI2
+http://68.251.105.81:5004/auto/v11.3
+#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids - CHI2" group-title="Kids & Family",PBS Kids - CHI2
+http://68.251.105.81:5004/auto/v11.4
+#EXTINF:-1 tvg-id="WWME-CD.us_locals1" tvg-name="meTV - CHI2" group-title="Entertainment - ENG",meTV - CHI2
+http://68.251.105.81:5004/auto/v23.1
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI2" group-title="Entertainment - ENG",H&I - CHI2
+http://68.251.105.81:5004/auto/v23.2
+#EXTINF:-1 tvg-id="WCIU-DT.us_locals1" tvg-name="IL | Chicago | The U WCIU2" group-title="Local - CW/IND/MY",IL | Chicago | The U WCIU2
+http://68.251.105.81:5004/auto/v26.1
+#EXTINF:-1 tvg-id="WMEU-CD.us_locals1" tvg-name="IL | Chicago | U Too WMEU2" group-title="Local - CW/IND/MY",IL | Chicago | U Too WMEU2
+http://68.251.105.81:5004/auto/v26.2
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI2 (Backup)" group-title="Entertainment - ENG",H&I - CHI2 (Backup)
+http://68.251.105.81:5004/auto/v26.4
+#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - CHI2" group-title="Entertainment - ENG",Story Television - CHI2
+http://68.251.105.81:5004/auto/v26.5
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - CHI2" group-title="Entertainment - ENG",Catchy Comedy - CHI2
+http://68.251.105.81:5004/auto/v26.6
+#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="meTV Toons - CHI2" group-title="Kids & Family",meTV Toons - CHI2
+http://68.251.105.81:5004/auto/v26.7
+#EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST - CHI2" group-title="Entertainment - ENG",WEST - CHI2
+http://68.251.105.81:5004/auto/v26.8
+#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="IL | Chicago | FOX WFLD2" group-title="Local - FOX",IL | Chicago | FOX WFLD2
+http://68.251.105.81:5004/auto/v32.1
+#EXTINF:-1 tvg-id="Movies!.us2" tvg-name="Movies! - CHI2" group-title="Movies",Movies! - CHI2
+http://68.251.105.81:5004/auto/v32.2
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr - CHI2" group-title="Entertainment - ENG",Buzzr - CHI2
+http://68.251.105.81:5004/auto/v32.3
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar - CHI2" group-title="Entertainment - ENG",Roar - CHI2
+http://68.251.105.81:5004/auto/v32.4
+#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather - CHI2" group-title="News - ENG",FOX Weather - CHI2
+http://68.251.105.81:5004/auto/v32.5
+#EXTINF:-1 tvg-id="WCPX-DT.us_locals1" tvg-name="ION Television - CHI2" group-title="Entertainment - ENG",ION Television - CHI2
+http://68.251.105.81:5004/auto/v38.1
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - CHI2" group-title="Entertainment - ENG",Bounce TV - CHI2
+http://68.251.105.81:5004/auto/v38.2
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - CHI2" group-title="News - ENG",Court TV - CHI2
+http://68.251.105.81:5004/auto/v38.3
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff - CHI2" group-title="Entertainment - ENG",Laff - CHI2
+http://68.251.105.81:5004/auto/v38.4
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - CHI2" group-title="Entertainment - ENG",ION Plus - CHI2
+http://68.251.105.81:5004/auto/v38.5
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="Busted - CHI2" group-title="Entertainment - ENG",Busted - CHI2
+http://68.251.105.81:5004/auto/v38.6
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - CHI2" group-title="Entertainment - ENG",Game Show Central - CHI2
+http://68.251.105.81:5004/auto/v38.7
+#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN1 - CHI2" group-title="Shopping",HSN1 - CHI2
+http://68.251.105.81:5004/auto/v38.8
+#EXTINF:-1 tvg-id="WSNS-DT.us_locals1" tvg-name="Telemundo Chicago WSNS2" group-title="Spanish",Telemundo Chicago WSNS2
+http://68.251.105.81:5004/auto/v44.1
+#EXTINF:-1 tvg-name="TeleXitos - CHI2" group-title="Spanish",TeleXitos - CHI2
+http://68.251.105.81:5004/auto/v44.2
+#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="meTV Plus - CHI2" group-title="Entertainment - ENG",meTV Plus - CHI2
+http://68.251.105.81:5004/auto/v48.4
+#EXTINF:-1 tvg-id="WPWR-DT.us_locals1" tvg-name="IL | Chicago | MY WPWR2" group-title="Local - CW/IND/MY",IL | Chicago | MY WPWR2
+http://68.251.105.81:5004/auto/v50.1
+#EXTINF:-1 tvg-id="WXFT-DT.us_locals1" tvg-name="UniMas Chicago WXFT2" group-title="Spanish",UniMas Chicago WXFT2
+http://68.251.105.81:5004/auto/v60.1
+#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - CHI2" group-title="Entertainment - ENG",ION Mystery - CHI2
+http://68.251.105.81:5004/auto/v60.2
+#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - CHI2" group-title="Entertainment - ENG",Quest - CHI2
+http://68.251.105.81:5004/auto/v60.3
+#EXTINF:-1 tvg-name="Heartland - CHI2" group-title="Entertainment - ENG",Heartland - CHI2
+http://68.251.105.81:5004/auto/v62.4
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - CHI2" group-title="Shopping",QVC1 - CHI2
+http://68.251.105.81:5004/auto/v62.5
+#EXTINF:-1 tvg-id="Jewelry.Television.us2" tvg-name="Jewelry TV - CHI2" group-title="Shopping",Jewelry TV - CHI2
+http://68.251.105.81:5004/auto/v62.7
+#EXTINF:-1 tvg-id="HSN2.us2" tvg-name="HSN2 - CHI2" group-title="Shopping",HSN2 - CHI2
+http://68.251.105.81:5004/auto/v62.9
+#EXTINF:-1 tvg-id="WGBO-DT.us_locals1" tvg-name="Univision Chicago - WGBO2" group-title="Spanish",Univision Chicago - WGBO2
+http://68.251.105.81:5004/auto/v66.1
+#EXTINF:-1 tvg-id="WDSF-LD.us_locals1" tvg-name="MovieSphere Gold - CHI2" group-title="Movies",MovieSphere Gold - CHI2
+http://68.251.105.81:5004/auto/v66.2
+#EXTINF:-1 tvg-id="get.us2" tvg-name="Great - CHI2" group-title="Entertainment - ENG",Great - CHI2
+http://68.251.105.81:5004/auto/v66.3
+#EXTINF:-1 tvg-name="NTD America - CHI2" group-title="Entertainment - ENG",NTD America - CHI2
+http://68.251.105.81:5004/auto/v24.2
+#EXTINF:-1 tvg-name="Swaag TV - CHI2" group-title="Entertainment - ENG",Swaag TV - CHI2
+http://68.251.105.81:5004/auto/v24.3
+#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - CHI2" group-title="Entertainment - ENG",365BLK - CHI2
+http://68.251.105.81:5004/auto/v24.4
+#EXTINF:-1 tvg-name="Timeless TV - CHI2" group-title="Entertainment - ENG",Timeless TV - CHI2
+http://68.251.105.81:5004/auto/v24.5
+#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy - CHI2" group-title="Entertainment - ENG",Defy - CHI2
+http://68.251.105.81:5004/auto/v24.6
+#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - CHI2" group-title="Entertainment - ENG",Outlaw - CHI2
+http://68.251.105.81:5004/auto/v24.8
+#EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime - CHI2" group-title="Entertainment - ENG",Law & Crime - CHI2
+http://68.251.105.81:5004/auto/v24.9
+#EXTINF:-1 tvg-id="plex.tv.Fubo.Sports.Network.plex" tvg-name="Fubo Sports - CHI2" group-title="Sports",Fubo Sports - CHI2
+http://68.251.105.81:5004/auto/v24.10
+#EXTINF:-1 tvg-id="plex.tv.Motorsport.tv.plex" tvg-name="MTRSPT1 - CHI2" group-title="Sports",MTRSPT1 - CHI2
+http://68.251.105.81:5004/auto/v3.11
+#EXTINF:-1 tvg-id="ShopHQ.HD.us2" tvg-name="ShopHQ- CHI2" group-title="Shopping",ShopHQ - CHI2
+http://68.251.105.81:5004/auto/v3.1
+#EXTINF:-1 tvg-name="AWSN - CHI2" group-title="Sports",AWSN - CHI2
+http://68.251.105.81:5004/auto/v3.4
+#EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="One America News - CHI2" group-title="News - ENG",One America News - CHI2
+http://68.251.105.81:5004/auto/v3.5
+#EXTINF:-1 tvg-id="BarkTV.distro" tvg-name="Bark TV - CHI2" group-title="Entertainment - ENG",Bark TV - CHI2
+http://68.251.105.81:5004/auto/v3.8
+#EXTINF:-1 tvg-id="FTF.Sports.distro" tvg-name="FTF SPORTS - CHI2" group-title="Sports",FTF SPORTS - CHI2
+http://68.251.105.81:5004/auto/v3.10
+#EXTINF:-1 tvg-id="BINGE-TV.us2" tvg-name="Binge - CHI2" group-title="Entertainment - ENG",Binge - CHI2
+http://68.251.105.81:5004/auto/v3.12
+#EXTINF:-1 tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="beIN Sports Xtra - CHI2" group-title="Sports",beIN Sports Xtra - CHI2
+http://68.251.105.81:5004/auto/v3.15
+#EXTINF:-1 tvg-id="plex.tv.Fubo.Sports.Network.plex" tvg-name="Fubo Sports - CHI2" group-title="Sports",Fubo Sports - CHI2
+http://68.251.105.81:5004/auto/v49.7
