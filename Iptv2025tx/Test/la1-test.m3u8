@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-name="KCBS-HD" group-title="Favorites",2.1 KCBS-HD
 http://173.229.4.246:5004/auto/v2.1
 #EXTINF:-1 tvg-name="StartTV" group-title="Uncategorized",2.2 StartTV
