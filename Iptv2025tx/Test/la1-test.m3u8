@@ -1,0 +1,277 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="KCBS-HD" group-title="Favorites",2.1 KCBS-HD
+http://173.229.4.246:5004/auto/v2.1
+#EXTINF:-1 tvg-name="StartTV" group-title="Uncategorized",2.2 StartTV
+http://173.229.4.246:5004/auto/v2.2
+#EXTINF:-1 tvg-name="Dabl" group-title="Uncategorized",2.3 Dabl
+http://173.229.4.246:5004/auto/v2.3
+#EXTINF:-1 tvg-name="FaveTV" group-title="Uncategorized",2.4 FaveTV
+http://173.229.4.246:5004/auto/v2.4
+#EXTINF:-1 tvg-name="NBC4-LA" group-title="Favorites",4.1 NBC4-LA
+http://173.229.4.246:5004/auto/v4.1
+#EXTINF:-1 tvg-name="COZI-TV" group-title="Uncategorized",4.2 COZI-TV
+http://173.229.4.246:5004/auto/v4.2
+#EXTINF:-1 tvg-name="CRIMES" group-title="Uncategorized",4.3 CRIMES
+http://173.229.4.246:5004/auto/v4.3
+#EXTINF:-1 tvg-name="Oxygen" group-title="Uncategorized",4.4 Oxygen
+http://173.229.4.246:5004/auto/v4.4
+#EXTINF:-1 tvg-name="KTLADT" group-title="Favorites",5.1 KTLADT
+http://173.229.4.246:5004/auto/v5.1
+#EXTINF:-1 tvg-name="Antenna" group-title="Uncategorized",5.2 Antenna
+http://173.229.4.246:5004/auto/v5.2
+#EXTINF:-1 tvg-name="GritTV" group-title="Uncategorized",5.3 GritTV
+http://173.229.4.246:5004/auto/v5.3
+#EXTINF:-1 tvg-name="QVC" group-title="Uncategorized",5.4 QVC
+http://173.229.4.246:5004/auto/v5.4
+#EXTINF:-1 tvg-name="Rewind" group-title="Uncategorized",5.5 Rewind
+http://173.229.4.246:5004/auto/v5.5
+#EXTINF:-1 tvg-name="KABC DT" group-title="Favorites",7.1 KABC DT
+http://173.229.4.246:5004/auto/v7.1
+#EXTINF:-1 tvg-name="LOCLsh" group-title="Uncategorized",7.2 LOCLsh
+http://173.229.4.246:5004/auto/v7.2
+#EXTINF:-1 tvg-name="CHARGE!" group-title="Uncategorized",7.3 CHARGE!
+http://173.229.4.246:5004/auto/v7.3
+#EXTINF:-1 tvg-name="QVC2" group-title="Uncategorized",7.4 QVC2
+http://173.229.4.246:5004/auto/v7.4
+#EXTINF:-1 tvg-name="KFLA-LD" group-title="Uncategorized",8.1 KFLA-LD
+http://173.229.4.246:5004/auto/v8.1
+#EXTINF:-1 tvg-name="Bridge1" group-title="Uncategorized",8.2 Bridge1
+http://173.229.4.246:5004/auto/v8.2
+#EXTINF:-1 tvg-name="Bridge2" group-title="Uncategorized",8.3 Bridge2
+http://173.229.4.246:5004/auto/v8.3
+#EXTINF:-1 tvg-name="Newsmax" group-title="Uncategorized",8.4 Newsmax
+http://173.229.4.246:5004/auto/v8.4
+#EXTINF:-1 tvg-name="InTouch" group-title="Uncategorized",8.5 InTouch
+http://173.229.4.246:5004/auto/v8.5
+#EXTINF:-1 tvg-name="AWSN" group-title="Uncategorized",8.6 AWSN
+http://173.229.4.246:5004/auto/v8.6
+#EXTINF:-1 tvg-name="OAN" group-title="Uncategorized",8.7 OAN
+http://173.229.4.246:5004/auto/v8.7
+#EXTINF:-1 tvg-name="Sales" group-title="Uncategorized",8.8 Sales
+http://173.229.4.246:5004/auto/v8.8
+#EXTINF:-1 tvg-name="BarkTV" group-title="Uncategorized",8.9 BarkTV
+http://173.229.4.246:5004/auto/v8.9
+#EXTINF:-1 tvg-name="ZLiving" group-title="Uncategorized",8.10 ZLiving
+http://173.229.4.246:5004/auto/v8.10
+#EXTINF:-1 tvg-name="FTF" group-title="Uncategorized",8.11 FTF
+http://173.229.4.246:5004/auto/v8.11
+#EXTINF:-1 tvg-name="MTRSPR1" group-title="Uncategorized",8.12 MTRSPR1
+http://173.229.4.246:5004/auto/v8.12
+#EXTINF:-1 tvg-name="AWE" group-title="Uncategorized",8.13 AWE
+http://173.229.4.246:5004/auto/v8.13
+#EXTINF:-1 tvg-name="NBT" group-title="Uncategorized",8.14 NBT
+http://173.229.4.246:5004/auto/v8.14
+#EXTINF:-1 tvg-name="Binge" group-title="Uncategorized",8.15 Binge
+http://173.229.4.246:5004/auto/v8.15
+#EXTINF:-1 tvg-name="DrOz" group-title="Uncategorized",8.16 DrOz
+http://173.229.4.246:5004/auto/v8.16
+#EXTINF:-1 tvg-name="beIN" group-title="Uncategorized",8.17 beIN
+http://173.229.4.246:5004/auto/v8.17
+#EXTINF:-1 tvg-name="KCAL-DT" group-title="Favorites",9.1 KCAL-DT
+http://173.229.4.246:5004/auto/v9.1
+#EXTINF:-1 tvg-name="Nest" group-title="Uncategorized",9.2 Nest
+http://173.229.4.246:5004/auto/v9.2
+#EXTINF:-1 tvg-name="Comet" group-title="Uncategorized",9.3 Comet
+http://173.229.4.246:5004/auto/v9.3
+#EXTINF:-1 tvg-name="HSN" group-title="Uncategorized",9.4 HSN
+http://173.229.4.246:5004/auto/v9.4
+#EXTINF:-1 tvg-name="QVC" group-title="Uncategorized",9.5 QVC
+http://173.229.4.246:5004/auto/v9.5
+#EXTINF:-1 tvg-name="KCAL+" group-title="Uncategorized",9.6 KCAL+
+http://173.229.4.246:5004/auto/v9.6
+#EXTINF:-1 tvg-name="KTTV-DT" group-title="Favorites",11.1 KTTV-DT
+http://173.229.4.246:5004/auto/v11.1
+#EXTINF:-1 tvg-name="FOX-WX" group-title="Uncategorized",11.2 FOX-WX
+http://173.229.4.246:5004/auto/v11.2
+#EXTINF:-1 tvg-name="ROAR" group-title="Uncategorized",11.3 ROAR
+http://173.229.4.246:5004/auto/v11.3
+#EXTINF:-1 tvg-name="CATCHY" group-title="Uncategorized",11.4 CATCHY
+http://173.229.4.246:5004/auto/v11.4
+#EXTINF:-1 tvg-name="KCOP-DT" group-title="Favorites",13.1 KCOP-DT
+http://173.229.4.246:5004/auto/v13.1
+#EXTINF:-1 tvg-name="BUZZR" group-title="Uncategorized",13.2 BUZZR
+http://173.229.4.246:5004/auto/v13.2
+#EXTINF:-1 tvg-name="MOVIES!" group-title="Uncategorized",13.3 MOVIES!
+http://173.229.4.246:5004/auto/v13.3
+#EXTINF:-1 tvg-name="HEROES" group-title="Uncategorized",13.4 HEROES
+http://173.229.4.246:5004/auto/v13.4
+#EXTINF:-1 tvg-name="LA18" group-title="Favorites",18.1 LA18
+http://173.229.4.246:5004/auto/v18.1
+#EXTINF:-1 tvg-name="SBS" group-title="Uncategorized",18.2 SBS
+http://173.229.4.246:5004/auto/v18.2
+#EXTINF:-1 tvg-name="MBCD" group-title="Uncategorized",18.3 MBCD
+http://173.229.4.246:5004/auto/v18.3
+#EXTINF:-1 tvg-name="YTV" group-title="Uncategorized",18.4 YTV
+http://173.229.4.246:5004/auto/v18.4
+#EXTINF:-1 tvg-name="CTS" group-title="Uncategorized",18.8 CTS
+http://173.229.4.246:5004/auto/v18.8
+#EXTINF:-1 tvg-name="DstrEsp" group-title="Uncategorized",20.1 DstrEsp
+http://173.229.4.246:5004/auto/v20.1
+#EXTINF:-1 tvg-name="MBN" group-title="Uncategorized",20.2 MBN
+http://173.229.4.246:5004/auto/v20.2
+#EXTINF:-1 tvg-name="ICCDD" group-title="Uncategorized",20.3 ICCDD
+http://173.229.4.246:5004/auto/v20.3
+#EXTINF:-1 tvg-name="MANA" group-title="Uncategorized",20.4 MANA
+http://173.229.4.246:5004/auto/v20.4
+#EXTINF:-1 tvg-name="NAURA" group-title="Uncategorized",20.10 NAURA
+http://173.229.4.246:5004/auto/v20.10
+#EXTINF:-1 tvg-name="CBS" group-title="Uncategorized",20.12 CBS
+http://173.229.4.246:5004/auto/v20.12
+#EXTINF:-1 tvg-name="KVMD-DT" group-title="Uncategorized",23.1 KVMD-DT
+http://173.229.4.246:5004/auto/v23.1
+#EXTINF:-1 tvg-name="DAYSTAR" group-title="Uncategorized",25.1 DAYSTAR
+http://173.229.4.246:5004/auto/v25.1
+#EXTINF:-1 tvg-name="DstrRef" group-title="Uncategorized",25.2 DstrRef
+http://173.229.4.246:5004/auto/v25.2
+#EXTINF:-1 tvg-name="SonLife" group-title="Uncategorized",25.3 SonLife
+http://173.229.4.246:5004/auto/v25.3
+#EXTINF:-1 tvg-name="KCET HD" group-title="Favorites",28.1 KCET HD
+http://173.229.4.246:5004/auto/v28.1
+#EXTINF:-1 tvg-name="KCETCRT" group-title="Uncategorized",28.2 KCETCRT
+http://173.229.4.246:5004/auto/v28.2
+#EXTINF:-1 tvg-name="N H K" group-title="Favorites",28.3 N H K
+http://173.229.4.246:5004/auto/v28.3
+#EXTINF:-1 tvg-name="ION" group-title="Favorites",30.1 ION
+http://173.229.4.246:5004/auto/v30.1
+#EXTINF:-1 tvg-name="CourtTV" group-title="Uncategorized",30.2 CourtTV
+http://173.229.4.246:5004/auto/v30.2
+#EXTINF:-1 tvg-name="IONPlus" group-title="Uncategorized",30.3 IONPlus
+http://173.229.4.246:5004/auto/v30.3
+#EXTINF:-1 tvg-name="Laff" group-title="Uncategorized",30.4 Laff
+http://173.229.4.246:5004/auto/v30.4
+#EXTINF:-1 tvg-name="GameSho" group-title="Uncategorized",30.5 GameSho
+http://173.229.4.246:5004/auto/v30.5
+#EXTINF:-1 tvg-name="BUSTED" group-title="Uncategorized",30.6 BUSTED
+http://173.229.4.246:5004/auto/v30.6
+#EXTINF:-1 tvg-name="HSN" group-title="Uncategorized",30.8 HSN
+http://173.229.4.246:5004/auto/v30.8
+#EXTINF:-1 tvg-name="FINN TV" group-title="Uncategorized",31.7 FINN TV
+http://173.229.4.246:5004/auto/v31.7
+#EXTINF:-1 tvg-name="KMEX-DT" group-title="Favorites",34.1 KMEX-DT
+http://173.229.4.246:5004/auto/v34.1
+#EXTINF:-1 tvg-name="UNM-SD" group-title="Uncategorized",34.2 UNM-SD
+http://173.229.4.246:5004/auto/v34.2
+#EXTINF:-1 tvg-name="MVSGLD" group-title="Uncategorized",34.3 MVSGLD
+http://173.229.4.246:5004/auto/v34.3
+#EXTINF:-1 tvg-name="CRIME" group-title="Favorites",34.4 CRIME
+http://173.229.4.246:5004/auto/v34.4
+#EXTINF:-1 tvg-name="ETTV" group-title="Favorites",34.5 ETTV
+http://173.229.4.246:5004/auto/v34.5
+#EXTINF:-1 tvg-name="BT2" group-title="Uncategorized",34.6 BT2
+http://173.229.4.246:5004/auto/v34.6
+#EXTINF:-1 tvg-name="TBN" group-title="Uncategorized",40.1 TBN
+http://173.229.4.246:5004/auto/v40.1
+#EXTINF:-1 tvg-name="Merit" group-title="Uncategorized",40.2 Merit
+http://173.229.4.246:5004/auto/v40.2
+#EXTINF:-1 tvg-name="Inspire" group-title="Uncategorized",40.3 Inspire
+http://173.229.4.246:5004/auto/v40.3
+#EXTINF:-1 tvg-name="ONTV4U" group-title="Uncategorized",40.4 ONTV4U
+http://173.229.4.246:5004/auto/v40.4
+#EXTINF:-1 tvg-name="PosiTiV" group-title="Uncategorized",40.5 PosiTiV
+http://173.229.4.246:5004/auto/v40.5
+#EXTINF:-1 tvg-name="KXLA-DT" group-title="Favorites",44.1 KXLA-DT
+http://173.229.4.246:5004/auto/v44.1
+#EXTINF:-1 tvg-name="SKYLINK" group-title="Uncategorized",44.3 SKYLINK
+http://173.229.4.246:5004/auto/v44.3
+#EXTINF:-1 tvg-name="SKY-CAN" group-title="Uncategorized",44.4 SKY-CAN
+http://173.229.4.246:5004/auto/v44.4
+#EXTINF:-1 tvg-name="NTD" group-title="Uncategorized",44.6 NTD
+http://173.229.4.246:5004/auto/v44.6
+#EXTINF:-1 tvg-name="NTDTV" group-title="Uncategorized",44.7 NTDTV
+http://173.229.4.246:5004/auto/v44.7
+#EXTINF:-1 tvg-name="EEE TV" group-title="Uncategorized",44.8 EEE TV
+http://173.229.4.246:5004/auto/v44.8
+#EXTINF:-1 tvg-name="KFTR-DT" group-title="Favorites",46.1 KFTR-DT
+http://173.229.4.246:5004/auto/v46.1
+#EXTINF:-1 tvg-name="GREAT" group-title="Uncategorized",46.2 GREAT
+http://173.229.4.246:5004/auto/v46.2
+#EXTINF:-1 tvg-name="Mystery" group-title="Uncategorized",46.3 Mystery
+http://173.229.4.246:5004/auto/v46.3
+#EXTINF:-1 tvg-name="GRIT" group-title="Uncategorized",46.4 GRIT
+http://173.229.4.246:5004/auto/v46.4
+#EXTINF:-1 tvg-name="Escape" group-title="Uncategorized",46.5 Escape
+http://173.229.4.246:5004/auto/v46.5
+#EXTINF:-1 tvg-name="PBS-HD" group-title="Favorites",50.1 PBS-HD
+http://173.229.4.246:5004/auto/v50.1
+#EXTINF:-1 tvg-name="PBS-2" group-title="Uncategorized",50.2 PBS-2
+http://173.229.4.246:5004/auto/v50.2
+#EXTINF:-1 tvg-name="Daystar" group-title="Uncategorized",50.3 Daystar
+http://173.229.4.246:5004/auto/v50.3
+#EXTINF:-1 tvg-name="PBSwrld" group-title="Uncategorized",50.4 PBSwrld
+http://173.229.4.246:5004/auto/v50.4
+#EXTINF:-1 tvg-name="PBSkids" group-title="Uncategorized",50.5 PBSkids
+http://173.229.4.246:5004/auto/v50.5
+#EXTINF:-1 tvg-name="KVEA-HD" group-title="Favorites",52.1 KVEA-HD
+http://173.229.4.246:5004/auto/v52.1
+#EXTINF:-1 tvg-name="KNBC-HD" group-title="Uncategorized",52.2 KNBC-HD
+http://173.229.4.246:5004/auto/v52.2
+#EXTINF:-1 tvg-name="TelXtos" group-title="Uncategorized",52.3 TelXtos
+http://173.229.4.246:5004/auto/v52.3
+#EXTINF:-1 tvg-name="Nosey" group-title="Uncategorized",52.4 Nosey
+http://173.229.4.246:5004/auto/v52.4
+#EXTINF:-1 tvg-name="KDOC HD" group-title="Favorites",56.1 KDOC HD
+http://173.229.4.246:5004/auto/v56.1
+#EXTINF:-1 tvg-name="ESNE" group-title="Uncategorized",56.2 ESNE
+http://173.229.4.246:5004/auto/v56.2
+#EXTINF:-1 tvg-name="MeTV" group-title="Uncategorized",56.3 MeTV
+http://173.229.4.246:5004/auto/v56.3
+#EXTINF:-1 tvg-name="ONTV4U" group-title="Uncategorized",56.4 ONTV4U
+http://173.229.4.246:5004/auto/v56.4
+#EXTINF:-1 tvg-name="MAJ-TV" group-title="Uncategorized",56.5 MAJ-TV
+http://173.229.4.246:5004/auto/v56.5
+#EXTINF:-1 tvg-name="CANAAN" group-title="Uncategorized",56.6 CANAAN
+http://173.229.4.246:5004/auto/v56.6
+#EXTINF:-1 tvg-name="Genesis" group-title="Uncategorized",56.7 Genesis
+http://173.229.4.246:5004/auto/v56.7
+#EXTINF:-1 tvg-name="TVA" group-title="Uncategorized",56.8 TVA
+http://173.229.4.246:5004/auto/v56.8
+#EXTINF:-1 tvg-name="Santida" group-title="Uncategorized",56.9 Santida
+http://173.229.4.246:5004/auto/v56.9
+#EXTINF:-1 tvg-name="LSTV" group-title="Uncategorized",56.10 LSTV
+http://173.229.4.246:5004/auto/v56.10
+#EXTINF:-1 tvg-name="JTV" group-title="Uncategorized",56.11 JTV
+http://173.229.4.246:5004/auto/v56.11
+#EXTINF:-1 tvg-name="KJLA" group-title="Favorites",57.1 KJLA
+http://173.229.4.246:5004/auto/v57.1
+#EXTINF:-1 tvg-name="VFACE" group-title="Uncategorized",57.2 VFACE
+http://173.229.4.246:5004/auto/v57.2
+#EXTINF:-1 tvg-name="VNA" group-title="Uncategorized",57.3 VNA
+http://173.229.4.246:5004/auto/v57.3
+#EXTINF:-1 tvg-name="VietSky" group-title="Uncategorized",57.4 VietSky
+http://173.229.4.246:5004/auto/v57.4
+#EXTINF:-1 tvg-name="STV" group-title="Uncategorized",57.5 STV
+http://173.229.4.246:5004/auto/v57.5
+#EXTINF:-1 tvg-name="VBS" group-title="Uncategorized",57.6 VBS
+http://173.229.4.246:5004/auto/v57.6
+#EXTINF:-1 tvg-name="ZWTV" group-title="Uncategorized",57.9 ZWTV
+http://173.229.4.246:5004/auto/v57.9
+#EXTINF:-1 tvg-name="SBTN" group-title="Uncategorized",57.10 SBTN
+http://173.229.4.246:5004/auto/v57.10
+#EXTINF:-1 tvg-name="VGMT" group-title="Uncategorized",57.12 VGMT
+http://173.229.4.246:5004/auto/v57.12
+#EXTINF:-1 tvg-name="SBU-TV" group-title="Uncategorized",57.15 SBU-TV
+http://173.229.4.246:5004/auto/v57.15
+#EXTINF:-1 tvg-name="KLCS-HD" group-title="Favorites",58.1 KLCS-HD
+http://173.229.4.246:5004/auto/v58.1
+#EXTINF:-1 tvg-name="KIDS-TV" group-title="Uncategorized",58.2 KIDS-TV
+http://173.229.4.246:5004/auto/v58.2
+#EXTINF:-1 tvg-name="CREATE" group-title="Uncategorized",58.3 CREATE
+http://173.229.4.246:5004/auto/v58.3
+#EXTINF:-1 tvg-name="KRCA-DT" group-title="Favorites",62.1 KRCA-DT
+http://173.229.4.246:5004/auto/v62.1
+#EXTINF:-1 tvg-name="KRCA-2" group-title="Uncategorized",62.2 KRCA-2
+http://173.229.4.246:5004/auto/v62.2
+#EXTINF:-1 tvg-name="CONFESS" group-title="Uncategorized",62.3 CONFESS
+http://173.229.4.246:5004/auto/v62.3
+#EXTINF:-1 tvg-name="Bounce" group-title="Favorites",64.1 Bounce
+http://173.229.4.246:5004/auto/v64.1
+#EXTINF:-1 tvg-name="KCBS NX" group-title="Uncategorized",102.1 KCBS NX
+http://173.229.4.246:5004/auto/v102.1
+#EXTINF:-1 tvg-name="KNBC NX" group-title="Uncategorized",104.1 KNBC NX
+http://173.229.4.246:5004/auto/v104.1
+#EXTINF:-1 tvg-name="KTLA HD" group-title="Favorites",105.1 KTLA HD
+http://173.229.4.246:5004/auto/v105.1
+#EXTINF:-1 tvg-name="KTTV NX" group-title="Favorites",111.1 KTTV NX
+http://173.229.4.246:5004/auto/v111.1
+#EXTINF:-1 tvg-name="KCOP NX" group-title="Favorites",113.1 KCOP NX
+http://173.229.4.246:5004/auto/v113.1
