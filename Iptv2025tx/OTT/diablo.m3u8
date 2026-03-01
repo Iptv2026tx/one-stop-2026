@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-name="HON-TVC Deportes (Z)(720)" group-title="HONDURAS",HON-TVC Deportes (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/153365
 #EXTINF:-1 tvg-name="PPV 1 -  (e)(1080)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 1 -  (e)(1080)
