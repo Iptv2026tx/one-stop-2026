@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Bronx, NY" group-title="News",News 12 Bronx, NY
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Bronx, NY" group-title="News",News 12+ Bronx, NY
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Brooklyn, NY" group-title="News",News 12 Brooklyn, NY
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Connecticut" group-title="News",News 12 Connecticut
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Connecticut" group-title="News",News 12+ Connecticut
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Hudson Valley, NY" group-title="News",News 12 Hudson Valley, NY
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Long Island, NY" group-title="News",News 12 Long Island, NY
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Long Island, NY" group-title="News",News 12+ Long Island, NY
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 New Jersey" group-title="News",News 12 New Jersey
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ New Jersey" group-title="News",News 12+ New Jersey
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Westchester, NY" group-title="News",News 12 Westchester, NY
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Westchester, NY" group-title="News",News 12+ Westchester, NY
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="Scripps.News.us2" tvg-name="Scripps News (D)" group-title="News",Scripps News (D)
+https://assets.scrippsdigital.com/cms/video/player.html?video=https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8&live=1&autoplay=true&purl=/live&da=1&title=Scripps%20News%20Live&kw=&contplay=*recent&mute=1&section=Live&cust_params=temp%3D%26weather%3D&host=scrippsnews.com&s=snews&env=production
