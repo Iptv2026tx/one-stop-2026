@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Soccer 01" group-title="Sports - Live",Soccer 01
 https://roxiestreams.info/soccer-streams-1
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Soccer 02" group-title="Sports - Live",Soccer 02
