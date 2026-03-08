@@ -1,33 +1,29 @@
-#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
+#EXTM3U
 #EXTINF:-1 tvg-id="WSAW-DT.us_locals1" tvg-name="WI | Rhinelander | CBS WSAW" group-title="Local - CBS",WI | Rhinelander | CBS WSAW
 http://173.229.4.248:5004/auto/v7.1
-#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="MeTV Plus - RhineWI" group-title="Entertainment - ENG",MeTV Plus - RhineWI
+#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="MeTV Plus - RhineWI" group-title="Entertainment",MeTV Plus - RhineWI
 http://173.229.4.248:5004/auto/v7.2
 #EXTINF:-1 tvg-id="WZAW-DT.us_locals1" tvg-name="WI | Rhinelander | FOX WZAW" group-title="Local - FOX",WI | Rhinelander | FOX WZAW
 http://173.229.4.248:5004/auto/v7.3
 #EXTINF:-1 tvg-id="W21DS-D.us_locals1" tvg-name="WI | Rhinelander | CW W21DS" group-title="Local - CW/IND/MY",WI | Rhinelander | CW W21DS
 http://173.229.4.248:5004/auto/v7.4
-#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - RhineWI" group-title="Entertainment - ENG",Quest - RhineWI
+#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - RhineWI" group-title="Entertainment",Quest - RhineWI
 http://173.229.4.248:5004/auto/v7.5
-#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - RhineWI" group-title="Entertainment - ENG",Outlaw - RhineWI
+#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - RhineWI" group-title="Westerns",Outlaw - RhineWI
 http://173.229.4.248:5004/auto/v7.6
 #EXTINF:-1 tvg-id="WSAW-DT.us_locals1" tvg-name="WI | Rhinelander | CBS WSAW" group-title="Local - CBS",WI | Rhinelander | CBS WSAW
 http://173.229.4.248:5004/auto/v7.10
 #EXTINF:-1 tvg-id="WJFW-DT.us_locals1" tvg-name="WI | Rhinelander | NBC WJFW" group-title="Local - NBC",WI | Rhinelander | NBC WJFW
 http://173.229.4.248:5004/auto/v12.1
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI - RhineWI" group-title="Entertainment - ENG",COZI - RhineWI
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI - RhineWI" group-title="Entertainment",COZI - RhineWI
 http://173.229.4.248:5004/auto/v12.2
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna - RhineWI" group-title="Entertainment - ENG",Antenna - RhineWI
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna - RhineWI" group-title="Entertainment",Antenna - RhineWI
 http://173.229.4.248:5004/auto/v12.3
-#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN1 - RhineWI" group-title="Shopping",HSN1 - RhineWI
-http://173.229.4.248:5004/auto/v12.4
-#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - RhineWI" group-title="Shopping",QVC1 - RhineWI
-http://173.229.4.248:5004/auto/v12.5
 #EXTINF:-1 tvg-id="plex.tv.MOVIESPHERE.plex " tvg-name="MovieSphere - RhineWI" group-title="Movies",MovieSphere - RhineWI
 http://173.229.4.248:5004/auto/v12.6
-#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="MeTV Plus - RhineWI" group-title="Entertainment - ENG",MeTV Plus - RhineWI
+#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="MeTV Plus - RhineWI" group-title="Entertainment",MeTV Plus - RhineWI
 http://173.229.4.248:5004/auto/v26.1
-#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - RhineWI" group-title="Entertainment - ENG",Outlaw - RhineWI
+#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - RhineWI" group-title="Westerns",Outlaw - RhineWI
 http://173.229.4.248:5004/auto/v26.2
 #EXTINF:-1 tvg-id="WZAW-DT.us_locals1" tvg-name="WI | Rhinelander | FOX WZAW" group-title="Local - FOX",WI | Rhinelander | FOX WZAW
 http://173.229.4.248:5004/auto/v33.10

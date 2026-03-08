@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
+#EXTM3U
 #EXTINF:-1 tvg-id="WPSU-DT.us_locals1" tvg-name="PA | Clearfield | PBS WPSU" group-title="Kids & Family",PA | Clearfield | PBS WPSU
 http://199.193.59.138:5004/auto/v3.1
 #EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - PA1" group-title="Kids & Family",Create - PA1
@@ -9,23 +9,17 @@ http://199.193.59.138:5004/auto/v3.3
 http://199.193.59.138:5004/auto/v3.4
 #EXTINF:-1 tvg-id="WJAC-DT.us_locals1" tvg-name="PA | Johnstown | NBC WJAC" group-title="Local - NBC",PA | Johnstown | NBC WJAC
 http://199.193.59.138:5004/auto/v6.1
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! - PA" group-title="Entertainment - ENG",Charge! - PA
-http://199.193.59.138:5004/auto/v6.2
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - PA" group-title="Entertainment - ENG",Comet - PA
-http://199.193.59.138:5004/auto/v6.3
 #EXTINF:-1 tvg-id="CW.Plus.East.us2" tvg-name="PA | Johnstown | CW+" group-title="Local - CW/IND/MY",PA | Johnstown | CW+
 http://199.193.59.138:5004/auto/v6.4
-#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - PA" group-title="Entertainment - ENG",The Nest - PA
-http://199.193.59.138:5004/auto/v6.5
-#EXTINF:-1 tvg-id="WTOO-DT.us_locals1" tvg-name="H&I - PA" group-title="Entertainment - ENG",H&I - PA
+#EXTINF:-1 tvg-id="WTOO-DT.us_locals1" tvg-name="H&I - PA" group-title="Entertainment",H&I - PA
 http://199.193.59.138:5004/auto/v50.1
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - PA" group-title="Entertainment - ENG",Start TV - PA
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - PA" group-title="Entertainment",Start TV - PA
 http://199.193.59.138:5004/auto/v50.2
-#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - PA" group-title="Entertainment - ENG",Catchy Comedy - PA
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - PA" group-title="Entertainment",Catchy Comedy - PA
 http://199.193.59.138:5004/auto/v50.3
 #EXTINF:-1 tvg-id="Movies!.us2" tvg-name="Movies! - PA" group-title="Movies",Movies! - PA
 http://199.193.59.138:5004/auto/v50.4
-#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - PA" group-title="Entertainment - ENG",Story Television - PA
+#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - PA" group-title="Entertainment",Story Television - PA
 http://199.193.59.138:5004/auto/v50.5
 #EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="meTV Toons - PA" group-title="Kids & Family",meTV Toons - PA
 http://199.193.59.138:5004/auto/v50.6
