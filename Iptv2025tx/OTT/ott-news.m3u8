@@ -1,64 +1,4 @@
-#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
-#EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News 24/7-1 (D)" group-title="News",CBS News 24/7-1 (D)
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News 24/7-2 (D)" group-title="News",CBS News 24/7-2 (D)
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/f7707419-719c-4f73-91e4-210b196666ad:MRN2/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Baltimore 1 (D)" group-title="News",CBS News Baltimore 1 (D)
-https://dai.google.com/linear/hls/event/TMUt418sQMeu1QtneYJ9ag/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%229419fb8a-5bca-4f74-a5c4-321c256d88ce%22%2Csu
-#EXTINF:-1 tvg-name="CBS News Baltimore 2 (D)" group-title="News",CBS News Baltimore 2 (D)
-https://dai.google.com/linear/hls/pa/event/TMUt418sQMeu1QtneYJ9ag/stream/b95dcd84-1e27-4f7f-bcd2-2a4fbd1a8795:TUL/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Bay Area 1 (D)" group-title="News",CBS News Bay Area 1 (D)
-https://dai.google.com/linear/hls/event/laLJwH1nS2KQAUQTF8z1Cg/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%225f983ce3-1309-42c6-bace-00e6bffc20a1%22%2Csu
-#EXTINF:-1 tvg-name="CBS News Bay Area 2 (D) " group-title="News",CBS News Bay Area 2 (D)
-https://dai.google.com/linear/hls/pa/event/laLJwH1nS2KQAUQTF8z1Cg/stream/742d87dc-ea1c-449d-b73c-bd3d97ceaffd:CBF2/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Boston 1 (D) " group-title="News",CBS News Boston 1 (D)
-https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%224b4a2929-2480-489d-bf4c-dae25e50c5b7%22%2Csu 
-#EXTINF:-1 tvg-name="CBS News Boston 2 (D)" group-title="News",CBS News Boston 2 (D)
-https://dai.google.com/linear/hls/pa/event/dHA193vxQ_WqZNVoC-W5MA/stream/cf1f1a2c-d539-432b-9c31-9a5351253e08:CHS/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Chicago 1 (D)" group-title="News",CBS News Chicago 1 (D)
-https://dai.google.com/linear/hls/pa/event/_xQBtL7ZSEClkNebaXzn8w/stream/32f7319e-feaf-4153-a7ce-b689b3c1dbb2:ATL/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Chicago 2 (D)" group-title="News",CBS News Chicago 2 (D)
-https://dai.google.com/linear/hls/event/_xQBtL7ZSEClkNebaXzn8w/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22e4a274ce-326e-4f60-a9ff-ce7d36540a4f%22%2Csu
-#EXTINF:-1 tvg-name="CBS News Colorado 1 (D) " group-title="News",CBS News Colorado 1 (D)
-https://dai.google.com/linear/hls/event/E9CkyheTSKeGiOiICU_JBQ/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22b9ed41d6-60d3-4117-8ade-5442aab9c234%22%2Csu
-#EXTINF:-1 tvg-name="CBS News Colorado 2 (D)" group-title="News",CBS News Colorado 2 (D)
-https://dai.google.com/linear/hls/pa/event/E9CkyheTSKeGiOiICU_JBQ/stream/b35c338b-6291-4bda-a613-54ddee81627f:ATL/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Detroit 1 (D)" group-title="News",CBS News Detroit 1 (D)
-https://dai.google.com/linear/hls/event/xnyAMOsfSV2J1b-A3nROFQ/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%2231828b0a-33ec-4811-9166-50e08159221f%22%2Csu
-#EXTINF:-1 tvg-name="CBS News Detroit 2 (D)" group-title="News",CBS News Detroit 2 (D)
-https://dai.google.com/linear/hls/pa/event/xnyAMOsfSV2J1b-A3nROFQ/stream/a59e7240-10b5-4ef4-9235-fe3ee6c0581b:TUL/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Los Angeles 1 (D)" group-title="News",CBS News Los Angeles 1 (D)
-https://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22efd17af6-83aa-4c31-bfda-d439953761ce%22%2Csu
-#EXTINF:-1 tvg-name="CBS News Los Angeles 2 (D)" group-title="News",CBS News Los Angeles 2 (D)
-https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/a992e647-1f4e-4194-9e2e-74c5d1a6a33f:MRN2/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Miami 1 (D)" group-title="News",CBS News Miami 1 (D)
-https://dai.google.com/linear/hls/event/_yODrBHESGSzPe3dqW4gGg/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22259ebc56-3f06-458b-a8cd-f4bc631b1fe2%22%2Csu
-#EXTINF:-1 tvg-name="CBS News Miami 2 (D)" group-title="News",CBS News Miami 2 (D)
-https://dai.google.com/linear/hls/pa/event/_yODrBHESGSzPe3dqW4gGg/stream/1a8cc3ff-b4e4-4497-934a-046ef479c14b:TUL/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Minnesota 1 (D)" group-title="News",CBS News Minnesota 1 (D)
-https://dai.google.com/linear/hls/event/c0XucO32RNKG8oeQ351a4Q/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22930e7dc4-8564-4a58-a2d4-695ec9b4b8bb%22%2Csu
-#EXTINF:-1 tvg-name="CBS News Minnesota 2 (D)" group-title="News",CBS News Minnesota 2 (D)
-https://dai.google.com/linear/hls/pa/event/c0XucO32RNKG8oeQ351a4Q/stream/06c6e059-89dd-494a-929b-3c1a76ab0bc7:CBF2/master.m3u8
-#EXTINF:-1 tvg-name="CBS News New York 1 (D)" group-title="News",CBS News New York 1 (D)
-https://dai.google.com/linear/hls/event/jeTDC610T-OSPdiWhcl0Pg/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22863058ce-a380-4187-800a-b5dbd636ee35%22%2Csu
-#EXTINF:-1 tvg-name="CBS News New York 2 (D)" group-title="News",CBS News New York 2 (D)
-https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/11e50cb0-c4af-4a52-9ff4-d4a362ca3938:DLS/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Philadelphia 1 (D)" group-title="News",CBS News Philadelphia 1 (D)
-https://dai.google.com/linear/hls/event/R2Kw0uvnQIW7fUmOseurzA/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22fd63d32c-0393-495b-a329-64aa23d126dc%22%2Csu
-#EXTINF:-1 tvg-name="CBS News Philadelphia 2 (D)" group-title="News",CBS News Philadelphia 2 (D)
-https://dai.google.com/linear/hls/pa/event/R2Kw0uvnQIW7fUmOseurzA/stream/700e5058-adea-4617-9e4f-f03dbcccb8f3:MRN2/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Pittsburgh 1 (D)" group-title="News",CBS News Pittsburgh 1 (D)
-https://dai.google.com/linear/hls/event/mir-uZYjTu6-8JLMHBTKhQ/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22a61d745c-2219-444a-b833-96421454c9b7%22%2Csu
-#EXTINF:-1 tvg-name="CBS News Pittsburgh 2 (D)" group-title="News",CBS News Pittsburgh 2 (D)
-https://dai.google.com/linear/hls/pa/event/mir-uZYjTu6-8JLMHBTKhQ/stream/95ec8248-cb7a-4b36-8055-2cf03385a717:CHS/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Sacramento 1 (D)" group-title="News",CBS News Sacramento 1 (D)
-https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%22a8f2ade4-4038-4061-9c75-28d7a5187ff6%22%2Csu
-#EXTINF:-1 tvg-name="CBS News Sacramento 2 (D)" group-title="News",CBS News Sacramento 2 (D)
-https://dai.google.com/linear/hls/pa/event/e7mp4YVGS7O_e7rqRNjKow/stream/79ba7943-c9a1-4cf1-8315-2fdde6e39b87:CBF2/master.m3u8
-#EXTINF:-1 tvg-id="plex.tv.CBS.News.Texas.plex" tvg-name="CBS News Texas 1 (D)" group-title="News",CBS News Texas 1 (D)
-https://dai.google.com/linear/hls/event/ogzLhRCkRbG3lFHHJwqaNw/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%229903af2c-8961-47c0-a8da-034d25664940%22%2Csu
-#EXTINF:-1 tvg-id="plex.tv.CBS.News.Texas.plex" tvg-name="CBS News Texas 2 (D)" group-title="New Group",CBS News Texas 2 (D)
-https://dai.google.com/linear/hls/pa/event/ogzLhRCkRbG3lFHHJwqaNw/stream/f2a2ff9b-9c38-4ce3-93d8-11d129b15933:TUL/master.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Bronx, NY" group-title="News",News 12 Bronx, NY
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Bronx, NY" group-title="News",News 12+ Bronx, NY
@@ -85,3 +25,33 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="Scripps.News.us2" tvg-name="Scripps News (D)" group-title="News",Scripps News (D)
 https://assets.scrippsdigital.com/cms/video/player.html?video=https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8&live=1&autoplay=true&purl=/live&da=1&title=Scripps%20News%20Live&kw=&contplay=*recent&mute=1&section=Live&cust_params=temp%3D%26weather%3D&host=scrippsnews.com&s=snews&env=production
+#EXTINF:-1 tvg-name="Global News BC Canada" group-title="News",Global News BC Canada
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Calgary" group-title="News",Global News Calgary
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Canada" group-title="News",Global News Canada
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-name="Global News Edmonton" group-title="News",Global News Edmonton
+https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Halifax" group-title="News",Global News Halifax
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Kingston" group-title="News",Global News Kingston
+https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Lethbridge" group-title="News",Global News Lethbridge
+https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Montreal" group-title="News",Global News Montreal
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News National" group-title="News",Global News National
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Okanagan" group-title="News",Global News Okanagan
+https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Peterborough" group-title="News",Global News Peterborough
+https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Regina" group-title="News",Global News Regina
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Saskatoon" group-title="News",Global News Saskatoon
+https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Toronto" group-title="News",Global News Toronto
+https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Winnipeg" group-title="News",Global News Winnipeg
+https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
