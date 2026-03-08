@@ -57,5 +57,5 @@ https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8?CMCD=
 https://dai.google.com/linear/hls/pa/event/e7mp4YVGS7O_e7rqRNjKow/stream/79ba7943-c9a1-4cf1-8315-2fdde6e39b87:CBF2/master.m3u8
 #EXTINF:-1 tvg-id="plex.tv.CBS.News.Texas.plex" tvg-name="CBS News Texas 1 (D)" group-title="News",CBS News Texas 1 (D)
 https://dai.google.com/linear/hls/event/ogzLhRCkRbG3lFHHJwqaNw/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%229903af2c-8961-47c0-a8da-034d25664940%22%2Csu
-#EXTINF:-1 tvg-id="plex.tv.CBS.News.Texas.plex" tvg-name="CBS News Texas 2 (D)" group-title="New Group",CBS News Texas 2 (D)
+#EXTINF:-1 tvg-id="plex.tv.CBS.News.Texas.plex" tvg-name="CBS News Texas 2 (D)" group-title="News",CBS News Texas 2 (D)
 https://dai.google.com/linear/hls/pa/event/ogzLhRCkRbG3lFHHJwqaNw/stream/f2a2ff9b-9c38-4ce3-93d8-11d129b15933:TUL/master.m3u8
