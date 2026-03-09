@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Lofi Radio Hip Hop" group-title="Music",Lofi Radio Hip Hop
 https://m.youtube.com/watch?v=jfKfPfyJRdk&list=PL6NdkXsPL07Il2hEQGcLI4dg_LTg7xA2L&index=1&pp=iAQB0gcJCa4KAYcqIYzv
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Lofi Radio Synthwave" group-title="Music",Lofi Radio Synthwave
