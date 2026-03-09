@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | ALT 98.7" group-title="Music - Radio Stations",CA | LA | ALT 98.7
+https://stream.revma.ihrhls.com/zc201/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | Angel City FC" group-title="Music - Radio Stations",CA | LA | Angel City FC
+https://stream.revma.ihrhls.com/zc9419/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | Cali 93.9" group-title="Music - Radio Stations",CA | LA | Cali 93.9
+https://stream.revma.ihrhls.com/zc6519/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | ESPN LA 710" group-title="Music - Radio Stations",CA | LA | ESPN LA 710
+https://stream.revma.ihrhls.com/zc7906/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | Go Country 105" group-title="Music - Radio Stations",CA | LA | Go Country 105
+https://stream.revma.ihrhls.com/zc6652/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | JACKFM 93.1" group-title="Music - Radio Stations",CA | LA | JACKFM 93.1
+https://stream.revma.ihrhls.com/zc10897/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | K-Earth 101" group-title="Music - Radio Stations",CA | LA | K-Earth 101
+https://stream.revma.ihrhls.com/zc10907/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | K-Love 107.5" group-title="Music - Radio Stations",CA | LA | K-Love 107.5
+https://stream.revma.ihrhls.com/zc5214/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KABC NewsRadio" group-title="Music - Radio Stations",CA | LA | KABC NewsRadio
+https://stream.revma.ihrhls.com/zc5335/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KCRW 89.9" group-title="Music - Radio Stations",CA | LA | KCRW 89.9
+https://stream.revma.ihrhls.com/zc5255/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KCRW World News " group-title="Music - Radio Stations",CA | LA | KCRW World News 
+https://stream.revma.ihrhls.com/zc5257/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KFI News 640" group-title="Music - Radio Stations",CA | LA | KFI News 640
+https://stream.revma.ihrhls.com/zc177/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KIIS 102.7" group-title="Music - Radio Stations",CA | LA | KIIS 102.7
+https://stream.revma.ihrhls.com/zc185/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KJAZZ 88.1" group-title="Music - Radio Stations",CA | LA | KJAZZ 88.1
+https://stream.revma.ihrhls.com/zc6655/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KLAC Dodgers Radio" group-title="Music - Radio Stations",CA | LA | KLAC Dodgers Radio
+https://stream.revma.ihrhls.com/zc189/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KLOS 95.5" group-title="Music - Radio Stations",CA | LA | KLOS 95.5
+https://stream.revma.ihrhls.com/zc5340/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KNX News 97.1" group-title="Music - Radio Stations",CA | LA | KNX News 97.1
+https://stream.revma.ihrhls.com/zc10906/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KOST 103.5" group-title="Music - Radio Stations",CA | LA | KOST 103.5
+https://stream.revma.ihrhls.com/zc193/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KROQ" group-title="Music - Radio Stations",CA | LA | KROQ
+https://stream.revma.ihrhls.com/zc10905/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KROQ 80s Rock" group-title="Music - Radio Stations",CA | LA | KROQ 80s Rock
+https://stream.revma.ihrhls.com/zc10869/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KTLA 5 NewsRadio" group-title="Music - Radio Stations",CA | LA | KTLA 5 NewsRadio
+https://stream.revma.ihrhls.com/zc6927/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | KUSC Classical" group-title="Music - Radio Stations",CA | LA | KUSC Classical
+https://stream.revma.ihrhls.com/zc5258/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | LA Chargers" group-title="Music - Radio Stations",CA | LA | LA Chargers
+https://stream.revma.ihrhls.com/zc7560/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | LA Clippers" group-title="Music - Radio Stations",CA | LA | LA Clippers
+https://stream.revma.ihrhls.com/zc7559/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | LA Raza 97.9" group-title="Music - Radio Stations",CA | LA | LA Raza 97.9
+https://stream.revma.ihrhls.com/zc10033/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | Mega 96.3" group-title="Music - Radio Stations",CA | LA | Mega 96.3
+https://stream.revma.ihrhls.com/zc10034/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | MYFM 104.3" group-title="Music - Radio Stations",CA | LA | MYFM 104.3
+https://stream.revma.ihrhls.com/zc173/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | Power 106" group-title="Music - Radio Stations",CA | LA | Power 106
+https://stream.revma.ihrhls.com/zc6045/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | Real 92.3" group-title="Music - Radio Stations",CA | LA | Real 92.3
+https://stream.revma.ihrhls.com/zc181/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | The BET LA" group-title="Music - Radio Stations",CA | LA | The BET LA
+https://stream.revma.ihrhls.com/zc10896/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | The Fish 95.9" group-title="Music - Radio Stations",CA | LA | The Fish 95.9
+https://stream.revma.ihrhls.com/zc201/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | The Patriot 1150" group-title="Music - Radio Stations",CA | LA | The Patriot 1150
+https://stream.revma.ihrhls.com/zc197/hls.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | The Wave 94.7" group-title="Music - Radio Stations",CA | LA | The Wave 94.7
+https://stream.revma.ihrhls.com/zc10908/hls.m3u8
