@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1950's" group-title="Music - Radio Stations",iHeart 1950's
 https://stream.revma.ihrhls.com/zc6882/hls.m3u8
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="iHeart 1960's" group-title="Music - Radio Stations",iHeart 1960's
