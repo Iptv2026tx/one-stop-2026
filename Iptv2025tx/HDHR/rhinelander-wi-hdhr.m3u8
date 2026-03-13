@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="WSAW-DT.us_locals1" tvg-name="WI | Rhinelander | CBS WSAW" group-title="Local - CBS",WI | Rhinelander | CBS WSAW
 http://173.229.4.248:5004/auto/v7.1
 #EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="MeTV Plus - RhineWI" group-title="Entertainment",MeTV Plus - RhineWI
