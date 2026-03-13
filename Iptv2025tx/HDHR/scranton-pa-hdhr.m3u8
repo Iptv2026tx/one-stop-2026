@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="Eternal.Word.Television.Network.us2" tvg-name="EWTN - SCRANPA" group-title="Religion",EWTN - SCRANPA
 http://68.65.124.50:5004/auto/v8.1
 #EXTINF:-1 tvg-id="WNEP-DT.us_locals1" tvg-name="PA | Scranton | ABC WNEP" group-title="Local - ABC",PA | Scranton | ABC WNEP
