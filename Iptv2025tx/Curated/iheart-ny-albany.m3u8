@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="NY | Albany | FOX Sports 980" group-title="Music - Radio Stations",NY | Albany | FOX Sports 980
 https://stream.revma.ihrhls.com/zc1425/hls.m3u8
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="NY | Albany | KISS 102.3" group-title="Music - Radio Stations",NY | Albany | KISS 102.3
