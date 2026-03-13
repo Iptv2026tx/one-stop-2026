@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="IL | Chicago | CBS WBBM2" group-title="Local - CBS",IL | Chicago | CBS WBBM2
 http://68.251.105.81:5004/auto/v2.1
 #EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - CHI2" group-title="Entertainment",Start TV - CHI2
