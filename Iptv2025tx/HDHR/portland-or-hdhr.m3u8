@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Weather" tvg-name="National Weather Service" group-title="News",National Weather Service
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
+#EXTINF:-1 tvg-id="WEATHER.dummy.us" tvg-name="National Weather Service" group-title="News",National Weather Service
 http://199.245.173.253:5004/auto/v3.1
 #EXTINF:-1 tvg-name="One America News - OR1" group-title="News",One America News
 http://199.245.173.253:5004/auto/v3.3
