@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="WPSU-DT.us_locals1" tvg-name="PA | Clearfield | PBS WPSU" group-title="Kids & Family",PA | Clearfield | PBS WPSU
 http://199.193.59.138:5004/auto/v3.1
 #EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - PA1" group-title="Kids & Family",Create - PA1
