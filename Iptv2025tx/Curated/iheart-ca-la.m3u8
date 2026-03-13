@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | ALT 98.7" group-title="Music - Radio Stations",CA | LA | ALT 98.7
 https://stream.revma.ihrhls.com/zc201/hls.m3u8
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CA | LA | Angel City FC" group-title="Music - Radio Stations",CA | LA | Angel City FC
