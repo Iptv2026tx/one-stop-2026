@@ -1,21 +1,41 @@
 #EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-name="PPV 01" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 01
 https://testpages99.wordpress.com/wp-content/uploads/2026/03/wp-1773436924920.mp4
+#EXTINF:-1 tvg-name="PPV 01" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 01
+https://testpages99.wordpress.com/wp-content/uploads/2026/03/wp-1773436924920.mp4
 #EXTINF:-1 tvg-name="PPV 02" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 02
+http://example.com/stream
+#EXTINF:-1 tvg-name="PPV 02" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 02
+http://example.com/stream
+#EXTINF:-1 tvg-name="PPV 03" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 03
 http://example.com/stream
 #EXTINF:-1 tvg-name="PPV 03" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 03
 http://example.com/stream
 #EXTINF:-1 tvg-name="PPV 04" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 04
 http://example.com/stream
+#EXTINF:-1 tvg-name="PPV 04" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 04
+http://example.com/stream
 #EXTINF:-1 tvg-name="PPV 05" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 05
+http://example.com/stream
+#EXTINF:-1 tvg-name="PPV 05" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 05
+http://example.com/stream
+#EXTINF:-1 tvg-name="PPV 06" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 06
 http://example.com/stream
 #EXTINF:-1 tvg-name="PPV 06" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 06
 http://example.com/stream
 #EXTINF:-1 tvg-name="PPV 07" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 07
 http://example.com/stream
+#EXTINF:-1 tvg-name="PPV 07" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 07
+http://example.com/stream
+#EXTINF:-1 tvg-name="PPV 08" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 08
+http://example.com/stream
 #EXTINF:-1 tvg-name="PPV 08" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 08
 http://example.com/stream
 #EXTINF:-1 tvg-name="PPV 09" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 09
+http://example.com/stream
+#EXTINF:-1 tvg-name="PPV 09" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 09
+http://example.com/stream
+#EXTINF:-1 tvg-name="PPV 10" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 10
 http://example.com/stream
 #EXTINF:-1 tvg-name="PPV 10" tvg-logo="https://github.com/Iptv2026tx/one-stop-2026/raw/refs/heads/main/Iptv2025tx/images/ppvlive2.png" group-title="! - Events Fights",PPV 10
 http://example.com/stream
